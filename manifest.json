@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 15,
-  "generatedAt": "2026-10-31T21:52:55Z",
+  "sequence": 16,
+  "generatedAt": "2026-10-31T22:03:26Z",
   "launcher": {
     "version": "0.1.5",
     "kind": "zip",
@@ -408,6 +408,66 @@
       "channel": "stable",
       "tags": [
         "Project Manager | Video Editing | Telegram Bot | File Organizer | Premiere Pro"
+      ],
+      "deprecated": false
+    },
+    {
+      "id": "narix",
+      "category": "game",
+      "name": "Chob to kon Nariman Simulator",
+      "description": "با نریمان از موانع چوبی عبور کن و رکورد بزن!",
+      "longDescription": "چوب تو کون نریمان سیمولاتور یک بازی رانر ساده و سرگرم‌کننده با محوریت نریمان است که باید با پرش به‌موقع از موانع چوبی عبور کند و تا جای ممکن به مسیرش ادامه دهد. بازی با طراحی متنوع محیط، موانع و عناصر بصری، تجربه‌ای سبک و فان برای گذراندن وقت فراهم می‌کند. اگر دنبال یک بازی ساده، سریع و بدون پیچیدگی هستی که هر زمان خواستی اجراش کنی و چند دست بازی کنی، این عنوان می‌تونه انتخاب جالبی باشه.",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/narix/logo.png?v=ebee2b0f5a",
+      "logoUrls": [],
+      "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/narix/poster.jpg?v=246583823f",
+      "posterUrls": [],
+      "version": "1.0.0",
+      "size": 37971,
+      "publishedAt": "2026-10-31",
+      "patchNotes": "شخصیت اصلی نریمان\n\n\n\nگیم‌پلی رانر با مکانیزم پرش از موانع\n\n\n\nتنوع در طراحی محیط و موانع چوبی\n\n\n\nتجربه‌ی سبک و سرگرم‌کننده برای بازی‌های کوتاه",
+      "history": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-31",
+          "notes": "شخصیت اصلی نریمان\n\n\n\nگیم‌پلی رانر با مکانیزم پرش از موانع\n\n\n\nتنوع در طراحی محیط و موانع چوبی\n\n\n\nتجربه‌ی سبک و سرگرم‌کننده برای بازی‌های کوتاه",
+          "deprecated": false,
+          "download": {
+            "urls": [
+              "https://github.com/raassassin29/Assassin-hub/releases/download/narix-v1.0.0/nariman__5_.html"
+            ],
+            "sha256": "6f5da1672ad78cbc22508042c7288347abb34121b9cbf53c070a313fd02d1583",
+            "size": 37971,
+            "fileName": "nariman__5_.html",
+            "parts": [],
+            "isMultiPart": false
+          },
+          "install": {
+            "type": "html",
+            "steps": [],
+            "uninstallSteps": []
+          },
+          "canRollback": true
+        }
+      ],
+      "download": {
+        "urls": [
+          "https://github.com/raassassin29/Assassin-hub/releases/download/narix-v1.0.0/nariman__5_.html"
+        ],
+        "sha256": "6f5da1672ad78cbc22508042c7288347abb34121b9cbf53c070a313fd02d1583",
+        "size": 37971,
+        "fileName": "nariman__5_.html",
+        "parts": [],
+        "isMultiPart": false
+      },
+      "install": {
+        "type": "html",
+        "steps": [],
+        "uninstallSteps": []
+      },
+      "dependencies": [],
+      "channel": "stable",
+      "tags": [
+        "Runner | Casual Game | Endless Runner | Arcade | Fun"
       ],
       "deprecated": false
     }
