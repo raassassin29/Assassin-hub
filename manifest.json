@@ -1,7 +1,21 @@
 {
   "schemaVersion": 1,
-  "sequence": 3,
-  "generatedAt": "2026-10-31T03:51:24Z",
+  "sequence": 4,
+  "generatedAt": "2026-10-31T04:17:06Z",
+  "launcher": {
+    "version": "0.1.1",
+    "kind": "zip",
+    "download": {
+      "urls": [
+        "https://github.com/raassassin29/Assassin-hub/releases/download/launcher-v0.1.1/AssassinHub-0.1.0.zip"
+      ],
+      "sha256": "507a4313268b275192b9862944330b739340e4a841802ba4515e1a4f06616ce3",
+      "size": 108448748,
+      "fileName": "AssassinHub-0.1.0.zip",
+      "parts": [],
+      "isMultiPart": false
+    }
+  },
   "categories": [
     {
       "id": "app",
