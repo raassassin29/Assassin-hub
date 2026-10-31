@@ -2,5 +2,5 @@
   "v": 1,
   "alg": "ed25519",
   "keyId": "k1",
-  "signature": "elwgbyjEAFXCDACFkbS6qw+MpcFr4tmqFv/Z31uKATpZD4HDyA/9kfokXqdQzuQVjGbToBr2+C/4RKNDhbw3CQ=="
+  "signature": "HIqNrtnrJp8ILuUgklr8e3/4MvKh1t6dez8LqgfmOQD438ojJAOzrHPkx1ryI6vnCTSzWLjCkeSvImQDSO5XAw=="
 }
