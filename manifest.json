@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 13,
-  "generatedAt": "2026-10-31T18:34:56Z",
+  "sequence": 14,
+  "generatedAt": "2026-10-31T19:16:34Z",
   "launcher": {
     "version": "0.1.5",
     "kind": "zip",
@@ -288,6 +288,66 @@
         "Browser",
         "Steam",
         "EasySkins"
+      ],
+      "deprecated": false
+    },
+    {
+      "id": "assassinautoshutdown",
+      "category": "app",
+      "name": "AssassinAutoShutdown",
+      "description": "خاموشی خودکار کامپیوتر پس از پایان دانلودهای Steam",
+      "longDescription": "Assassin Auto Shutdown ابزاری برای مدیریت هوشمند خاموش شدن کامپیوتر پس از اتمام دانلودهای Steam است. برنامه با بررسی وضعیت دانلودها، صف دانلود، عملیات Staging و تشخیص بصری وضعیت Play، پایان واقعی دانلود را ارزیابی می‌کند. پس از تأیید چندمرحله‌ای و گذشت زمان بیکاری مشخص‌شده، شمارش معکوس خاموشی آغاز می‌شود. در صورت شروع مجدد دانلود یا بروز هرگونه وضعیت نامشخص، عملیات خاموشی متوقف خواهد شد. همچنین دارای حالت Dry Run برای آزمایش عملکرد بدون خاموشی واقعی و تنظیمات اختصاصی برای کنترل زمان‌بندی است.",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassinautoshutdown/logo.png?v=e4e77e6808",
+      "logoUrls": [],
+      "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassinautoshutdown/poster.jpg?v=7a7e46c600",
+      "posterUrls": [],
+      "version": "1.0.0",
+      "size": 66697437,
+      "publishedAt": "2026-10-31",
+      "patchNotes": "اولین انتشار رسمی نسخه 1.0.0\n\n\n\nتشخیص هوشمند وضعیت دانلودهای Steam\n\n\n\nسیستم تأیید چندمرحله‌ای و تشخیص بصری وضعیت Play\n\n\n\nشمارش معکوس قابل لغو پیش از خاموشی\n\n\n\nمکانیزم ایمنی Fail-Safe برای جلوگیری از خاموشی زودهنگام\n\n\n\nحالت آزمایشی Dry Run و تنظیمات شخصی‌سازی",
+      "history": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-31",
+          "notes": "اولین انتشار رسمی نسخه 1.0.0\n\n\n\nتشخیص هوشمند وضعیت دانلودهای Steam\n\n\n\nسیستم تأیید چندمرحله‌ای و تشخیص بصری وضعیت Play\n\n\n\nشمارش معکوس قابل لغو پیش از خاموشی\n\n\n\nمکانیزم ایمنی Fail-Safe برای جلوگیری از خاموشی زودهنگام\n\n\n\nحالت آزمایشی Dry Run و تنظیمات شخصی‌سازی",
+          "deprecated": false,
+          "download": {
+            "urls": [
+              "https://github.com/raassassin29/Assassin-hub/releases/download/assassinautoshutdown-v1.0.0/AssassinAutoShutdown.exe"
+            ],
+            "sha256": "5d7b44f0b7376163fdd2dcdb77195344238a5f8b05b1ca48b0fcd0e7664af08e",
+            "size": 66697437,
+            "fileName": "AssassinAutoShutdown.exe",
+            "parts": [],
+            "isMultiPart": false
+          },
+          "install": {
+            "type": "portable",
+            "steps": [],
+            "uninstallSteps": []
+          },
+          "canRollback": true
+        }
+      ],
+      "download": {
+        "urls": [
+          "https://github.com/raassassin29/Assassin-hub/releases/download/assassinautoshutdown-v1.0.0/AssassinAutoShutdown.exe"
+        ],
+        "sha256": "5d7b44f0b7376163fdd2dcdb77195344238a5f8b05b1ca48b0fcd0e7664af08e",
+        "size": 66697437,
+        "fileName": "AssassinAutoShutdown.exe",
+        "parts": [],
+        "isMultiPart": false
+      },
+      "install": {
+        "type": "portable",
+        "steps": [],
+        "uninstallSteps": []
+      },
+      "dependencies": [],
+      "channel": "stable",
+      "tags": [
+        "Auto Shutdown | Steam Utility | Download Manager"
       ],
       "deprecated": false
     }
