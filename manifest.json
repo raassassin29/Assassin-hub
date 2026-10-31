@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 12,
-  "generatedAt": "2026-10-31T18:25:13Z",
+  "sequence": 13,
+  "generatedAt": "2026-10-31T18:34:56Z",
   "launcher": {
     "version": "0.1.5",
     "kind": "zip",
@@ -226,6 +226,68 @@
       "channel": "stable",
       "tags": [
         "`Game Launcher | Game Library | Game Manager`"
+      ],
+      "deprecated": false
+    },
+    {
+      "id": "ezassassin",
+      "category": "app",
+      "name": "EzAssassin",
+      "description": "بمدیریت چند سشن و اکانت در یک مرورگر",
+      "longDescription": "Ez Assassin یک مرورگر چندسشنی است که امکان مدیریت هم‌زمان چند حساب کاربری اینترنتی را ساده‌تر می‌کند. این ابزار در ابتدا با تمرکز بر کاربران چنداکانته‌ی Steam و سایت EasySkins طراحی شد، اما کاربرد آن به سایر فعالیت‌های اینترنتی چنداکانته نیز گسترش پیدا کرد. مناسب افرادی است که برای مدیریت حساب‌های متعدد به محیطی منظم و کاربردی نیاز دارند.",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ezassassin/logo.png?v=93cca5dc4c",
+      "logoUrls": [],
+      "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ezassassin/poster.jpg?v=cab91249d4",
+      "posterUrls": [],
+      "version": "1.3.0",
+      "size": 4893881,
+      "publishedAt": "2026-10-31",
+      "history": [
+        {
+          "version": "1.3.0",
+          "date": "2026-10-31",
+          "deprecated": false,
+          "download": {
+            "urls": [
+              "https://github.com/raassassin29/Assassin-hub/releases/download/ezassassin-v1.3.0/EzAssassin.exe"
+            ],
+            "sha256": "597b01e64e73f24ef0c446669aef4a93f7a7157f2eb86b095eceacee5619071d",
+            "size": 4893881,
+            "fileName": "EzAssassin.exe",
+            "parts": [],
+            "isMultiPart": false
+          },
+          "install": {
+            "type": "portable",
+            "steps": [],
+            "uninstallSteps": []
+          },
+          "canRollback": true
+        }
+      ],
+      "download": {
+        "urls": [
+          "https://github.com/raassassin29/Assassin-hub/releases/download/ezassassin-v1.3.0/EzAssassin.exe"
+        ],
+        "sha256": "597b01e64e73f24ef0c446669aef4a93f7a7157f2eb86b095eceacee5619071d",
+        "size": 4893881,
+        "fileName": "EzAssassin.exe",
+        "parts": [],
+        "isMultiPart": false
+      },
+      "install": {
+        "type": "portable",
+        "steps": [],
+        "uninstallSteps": []
+      },
+      "dependencies": [],
+      "channel": "stable",
+      "tags": [
+        "Multi-Account",
+        "Multi-Session",
+        "Browser",
+        "Steam",
+        "EasySkins"
       ],
       "deprecated": false
     }
