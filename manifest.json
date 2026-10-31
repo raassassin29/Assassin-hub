@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 14,
-  "generatedAt": "2026-10-31T19:16:34Z",
+  "sequence": 15,
+  "generatedAt": "2026-10-31T21:52:55Z",
   "launcher": {
     "version": "0.1.5",
     "kind": "zip",
@@ -348,6 +348,66 @@
       "channel": "stable",
       "tags": [
         "Auto Shutdown | Steam Utility | Download Manager"
+      ],
+      "deprecated": false
+    },
+    {
+      "id": "assassin-project-maker",
+      "category": "app",
+      "name": "Assassin Project Maker",
+      "description": "ساخت پوشه پروژه و دریافت خودکار فایل‌ها از تلگرام",
+      "longDescription": "Assassin Project Manager ابزاری برای مدیریت و سازمان‌دهی پروژه‌های تدوین ویدیو است. برنامه با دریافت مسیر اصلی پروژه‌ها، برای هر پروژه یک پوشه اختصاصی با ساختار از پیش تعریف‌شده شامل فوتیج، وکال، موزیک، فایل‌های ذخیره‌شده Premiere و سایر پوشه‌های موردنیاز ایجاد می‌کند. همچنین با استفاده از ربات تلگرامی اختصاصی، امکان ارسال نام پروژه و فوروارد کردن فایل‌ها از طریق تلگرام را فراهم می‌کند. فایل‌های دریافت‌شده به‌صورت خودکار دانلود و در پوشه مربوط به پروژه روی کامپیوتر ذخیره می‌شوند. این ابزار به تدوینگرها کمک می‌کند بدون نیاز به انتقال دستی و مرتب‌سازی مداوم فایل‌ها، پروژه‌های خود را سریع‌تر ایجاد و مدیریت کنند.",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-project-maker/logo.png?v=15b9b1bcdc",
+      "logoUrls": [],
+      "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-project-maker/poster.jpg?v=0fcfe0ba74",
+      "posterUrls": [],
+      "version": "1.0.0",
+      "size": 33840221,
+      "publishedAt": "2026-10-31",
+      "patchNotes": "اولین انتشار\n\n\n\nایجاد خودکار ساختار پوشه‌های پروژه با نام دلخواه\n\n\n\nپشتیبانی از پوشه‌های اختصاصی فوتیج، وکال، موزیک و فایل‌های Premiere\n\n\n\nاتصال به ربات تلگرامی اختصاصی\n\n\n\nدریافت نام پروژه از طریق تلگرام\n\n\n\nدانلود خودکار فایل‌های فورواردشده\n\n\n\nذخیره و دسته‌بندی فایل‌ها در مسیر پروژه مربوطه",
+      "history": [
+        {
+          "version": "1.0.0",
+          "date": "2026-10-31",
+          "notes": "اولین انتشار\n\n\n\nایجاد خودکار ساختار پوشه‌های پروژه با نام دلخواه\n\n\n\nپشتیبانی از پوشه‌های اختصاصی فوتیج، وکال، موزیک و فایل‌های Premiere\n\n\n\nاتصال به ربات تلگرامی اختصاصی\n\n\n\nدریافت نام پروژه از طریق تلگرام\n\n\n\nدانلود خودکار فایل‌های فورواردشده\n\n\n\nذخیره و دسته‌بندی فایل‌ها در مسیر پروژه مربوطه",
+          "deprecated": false,
+          "download": {
+            "urls": [
+              "https://github.com/raassassin29/Assassin-hub/releases/download/assassin-project-maker-v1.0.0/Assassin_Project_Maker.exe"
+            ],
+            "sha256": "57dc8c933ce9eef24603a3e3dccde663b09254ae9f70c51103ac639e72e82a59",
+            "size": 33840221,
+            "fileName": "Assassin_Project_Maker.exe",
+            "parts": [],
+            "isMultiPart": false
+          },
+          "install": {
+            "type": "portable",
+            "steps": [],
+            "uninstallSteps": []
+          },
+          "canRollback": true
+        }
+      ],
+      "download": {
+        "urls": [
+          "https://github.com/raassassin29/Assassin-hub/releases/download/assassin-project-maker-v1.0.0/Assassin_Project_Maker.exe"
+        ],
+        "sha256": "57dc8c933ce9eef24603a3e3dccde663b09254ae9f70c51103ac639e72e82a59",
+        "size": 33840221,
+        "fileName": "Assassin_Project_Maker.exe",
+        "parts": [],
+        "isMultiPart": false
+      },
+      "install": {
+        "type": "portable",
+        "steps": [],
+        "uninstallSteps": []
+      },
+      "dependencies": [],
+      "channel": "stable",
+      "tags": [
+        "Project Manager | Video Editing | Telegram Bot | File Organizer | Premiere Pro"
       ],
       "deprecated": false
     }
