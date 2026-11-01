@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 21,
-  "generatedAt": "2026-11-01T01:38:57Z",
+  "sequence": 22,
+  "generatedAt": "2026-11-01T06:53:22Z",
   "launcher": {
     "version": "1.5.1",
     "kind": "zip",
@@ -479,8 +479,9 @@
       "name": "Assassin Vocal Manager",
       "description": "پلاگین وکال منیجر: تشخیص متن وکال، پیدا کردن سوتی‌ها و بخش‌های حذفی، و علامت‌گذاری برای پاکسازی",
       "longDescription": "Assassin Vocal Manager یک پلاگین برای مدیریت و پاکسازی وکال است.\r\n\r\nامکانات:\r\n• تشخیص متن وکال\r\n• پیدا کردن سوتی‌ها و تیک‌های اشتباه\r\n• شناسایی بخش‌های حذفی\r\n• علامت‌گذاری بخش‌ها برای پاکسازی\r\n\r\nنصب:\r\nاین بسته یک نصب‌کننده است.  AssassinVocalManager_Setup 1.1.0.exe را اجرا کنید و مراحل را دنبال کنید. نصب‌کننده خودش پلاگین و پیش‌نیازهای لازم را نصب می‌کند.",
-      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-vocal-manager/logo.png?v=254962947c",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-vocal-manager/logo.png?v=9913478feb",
       "logoUrls": [],
+      "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-vocal-manager/poster.jpg?v=d46c91c289",
       "posterUrls": [],
       "version": "1.1.0",
       "size": 5564988,
