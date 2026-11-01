@@ -1,20 +1,21 @@
 {
   "schemaVersion": 1,
-  "sequence": 18,
-  "generatedAt": "2026-10-31T23:13:49Z",
+  "sequence": 19,
+  "generatedAt": "2026-11-01T01:17:24Z",
   "launcher": {
-    "version": "0.1.5",
+    "version": "1.5.1",
     "kind": "zip",
     "download": {
       "urls": [
-        "https://github.com/raassassin29/Assassin-hub/releases/download/launcher-v0.1.5/AssassinHub-0.1.5.zip"
+        "https://github.com/raassassin29/Assassin-hub/releases/download/launcher-v1.5.1/AssassinHub-1.5.1.zip"
       ],
-      "sha256": "fd7bc0b600b39affa36f735f87cb782c07ca02958078297b1b67c57c619a5791",
-      "size": 22852155,
-      "fileName": "AssassinHub-0.1.5.zip",
+      "sha256": "57b9b882d732a055920fdeadcb14980c5e43fb62a42b3281483a4ceaf3fdf662",
+      "size": 22859362,
+      "fileName": "AssassinHub-1.5.1.zip",
       "parts": [],
       "isMultiPart": false
-    }
+    },
+    "patchNotes": "باگ فیکس :\r\n رفع ارور های لانچ نشدن بعضی اپ ها \r\nرفع ارور اجرا هنگان اجرای بعضی اپ ها "
   },
   "categories": [
     {
