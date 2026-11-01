@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 23,
-  "generatedAt": "2026-11-01T06:54:02Z",
+  "sequence": 24,
+  "generatedAt": "2026-11-01T20:31:44Z",
   "launcher": {
     "version": "1.5.1",
     "kind": "zip",
@@ -601,6 +601,66 @@
         "Browser",
         "Steam",
         "EasySkins"
+      ],
+      "deprecated": false
+    },
+    {
+      "id": "hidex-wavegen",
+      "category": "app",
+      "name": "Hidex_WaveGen",
+      "description": "تولیدکننده طول موج‌های تصادفی و مقاوم در برابر حملات حدس رمز برای Hidex 4.5.",
+      "longDescription": "Hidex WaveGen ابزار مکمل Hidex 4.5 برای تولید طول موج‌های تصادفی با هدف افزایش مقاومت کلیدهای رمزنگاری در برابر حملات Brute Force است.\n\nاین برنامه با استفاده از منابع تصادفی رمزنگاری‌شده، الگوریتم SHA-512 و فیلترهای تشخیص الگو، طول موج‌های ۱۰، ۱۱ و ۱۲ رقمی تولید می‌کند و مشخصات امنیتی هر خروجی را بررسی می‌کند.\n\nامکانات اصلی:\n\nتولید طول موج با استفاده از منابع تصادفی رمزنگاری‌شده\n\nفیلتر الگوهای قابل حدس، دنباله‌های عددی و الگوهای رایج\n\nبررسی یکنواختی ارقام و مشخصات هر خروجی\n\nنمایش فضای جستجو و تخمین زمان حمله Brute Force\n\nمقایسه مقاومت در برابر CPU و GPU\n\nتاریخچه موقت ۸ خروجی اخیر\n\nکپی خودکار همراه با قابلیت پاک‌سازی کلیپ‌بورد پس از ۶۰ ثانیه\n\nرابط گرافیکی هماهنگ با Hidex 4.5",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/hidex-wavegen/logo.png?v=bf692e8c9a",
+      "logoUrls": [],
+      "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/hidex-wavegen/poster.jpg?v=cd7df40073",
+      "posterUrls": [],
+      "version": "4.5.0",
+      "size": 45294147,
+      "publishedAt": "2026-11-01",
+      "patchNotes": "انتشار اولین نسخه Hidex WaveGen\n\nپیاده‌سازی موتور تولید طول موج تصادفی\n\nاضافه‌شدن فیلترهای ضدالگوی قابل حدس\n\nاضافه‌شدن ارزیابی قدرت و تخمین زمان حمله\n\nاضافه‌شدن تاریخچه موقت خروجی‌ها\n\nرفع مشکل به‌روزرسانی اطلاعات امنیتی پس از تولید عدد جدید\n\nبهبود رابط کاربری و قابلیت‌های کپی و رفرش",
+      "history": [
+        {
+          "version": "4.5.0",
+          "date": "2026-11-01",
+          "notes": "انتشار اولین نسخه Hidex WaveGen\n\nپیاده‌سازی موتور تولید طول موج تصادفی\n\nاضافه‌شدن فیلترهای ضدالگوی قابل حدس\n\nاضافه‌شدن ارزیابی قدرت و تخمین زمان حمله\n\nاضافه‌شدن تاریخچه موقت خروجی‌ها\n\nرفع مشکل به‌روزرسانی اطلاعات امنیتی پس از تولید عدد جدید\n\nبهبود رابط کاربری و قابلیت‌های کپی و رفرش",
+          "deprecated": false,
+          "download": {
+            "urls": [
+              "https://github.com/raassassin29/Assassin-hub/releases/download/hidex-wavegen-v4.5.0/Hidex_WaveGen.exe"
+            ],
+            "sha256": "dd2501387c8940422e8d815788eb6cea7c24f672ee3ff89fbaa44bef2dab6122",
+            "size": 45294147,
+            "fileName": "Hidex_WaveGen.exe",
+            "parts": [],
+            "isMultiPart": false
+          },
+          "install": {
+            "type": "portable",
+            "steps": [],
+            "uninstallSteps": []
+          },
+          "canRollback": true
+        }
+      ],
+      "download": {
+        "urls": [
+          "https://github.com/raassassin29/Assassin-hub/releases/download/hidex-wavegen-v4.5.0/Hidex_WaveGen.exe"
+        ],
+        "sha256": "dd2501387c8940422e8d815788eb6cea7c24f672ee3ff89fbaa44bef2dab6122",
+        "size": 45294147,
+        "fileName": "Hidex_WaveGen.exe",
+        "parts": [],
+        "isMultiPart": false
+      },
+      "install": {
+        "type": "portable",
+        "steps": [],
+        "uninstallSteps": []
+      },
+      "dependencies": [],
+      "channel": "stable",
+      "tags": [
+        "`Hidex | Security Tool | Random Generator | Brute Force Protection | Cryptography | Password Generator`"
       ],
       "deprecated": false
     }
