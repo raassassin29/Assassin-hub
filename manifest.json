@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 24,
-  "generatedAt": "2026-11-01T20:31:44Z",
+  "sequence": 25,
+  "generatedAt": "2026-11-01T20:46:07Z",
   "launcher": {
     "version": "1.5.1",
     "kind": "zip",
@@ -661,6 +661,66 @@
       "channel": "stable",
       "tags": [
         "`Hidex | Security Tool | Random Generator | Brute Force Protection | Cryptography | Password Generator`"
+      ],
+      "deprecated": false
+    },
+    {
+      "id": "assassin-tool-2-1",
+      "category": "app",
+      "name": "Assassin Tool 2.1",
+      "description": "ابزار مدیریت پروژه و فایل با قابلیت ذخیره خودکار، پیش‌نمایش و مرتب‌سازی فایل‌ها.",
+      "longDescription": "Assassin Tool یک ابزار دسکتاپ برای مدیریت و سازمان‌دهی فایل‌های پروژه است. نسخه 2.0 با بازنویسی کامل سیستم ذخیره‌سازی، امکان نگهداری خودکار پروژه‌ها و بازیابی سریع آن‌ها را فراهم می‌کند.\n\nامکانات اصلی:\n- ذخیره خودکار پروژه پس از هر تغییر\n- نگهداری و بازیابی ۱۵ پروژه اخیر\n- بارگذاری خودکار آخرین پروژه هنگام اجرای برنامه\n- پیش‌نمایش تصاویر با Thumbnail واقعی\n- نمایش آیکون اختصاصی برای فرمت‌های مختلف فایل\n- نمایش حجم فایل در پنل پیش‌نمایش\n- تغییر ترتیب فایل‌ها با Move Up و Move Down\n- رابط کاربری جدید با تم فیروزه‌ای تیره",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-tool-2-1/logo.png?v=d37c5c1709",
+      "logoUrls": [],
+      "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-tool-2-1/poster.jpg?v=87349f168d",
+      "posterUrls": [],
+      "version": "2.1.0",
+      "size": 43647086,
+      "publishedAt": "2026-11-01",
+      "patchNotes": "بازنویسی کامل سیستم ذخیره‌سازی و رفع مشکل از دست رفتن پروژه‌ها\n\n\n\nاضافه‌شدن ذخیره خودکار پس از هر تغییر\n\n\n\nاضافه‌شدن بخش Recent Projects با ظرفیت ۱۵ پروژه\n\n\n\nقابلیت بارگذاری و حذف پروژه‌های ذخیره‌شده\n\n\n\nاضافه‌شدن پنل پیش‌نمایش فایل‌ها\n\n\n\nاضافه‌شدن Thumbnail تصاویر و آیکون اختصاصی فرمت‌ها\n\n\n\nاضافه‌شدن قابلیت جابه‌جایی ترتیب فایل‌ها",
+      "history": [
+        {
+          "version": "2.1.0",
+          "date": "2026-11-01",
+          "notes": "بازنویسی کامل سیستم ذخیره‌سازی و رفع مشکل از دست رفتن پروژه‌ها\n\n\n\nاضافه‌شدن ذخیره خودکار پس از هر تغییر\n\n\n\nاضافه‌شدن بخش Recent Projects با ظرفیت ۱۵ پروژه\n\n\n\nقابلیت بارگذاری و حذف پروژه‌های ذخیره‌شده\n\n\n\nاضافه‌شدن پنل پیش‌نمایش فایل‌ها\n\n\n\nاضافه‌شدن Thumbnail تصاویر و آیکون اختصاصی فرمت‌ها\n\n\n\nاضافه‌شدن قابلیت جابه‌جایی ترتیب فایل‌ها",
+          "deprecated": false,
+          "download": {
+            "urls": [
+              "https://github.com/raassassin29/Assassin-hub/releases/download/assassin-tool-2-1-v2.1.0/Assassin_Tool_2.1.exe"
+            ],
+            "sha256": "0284135ebaf57d7acf67c49c78e6bad4488e40bd8015b9effc418c70be95ee73",
+            "size": 43647086,
+            "fileName": "Assassin_Tool_2.1.exe",
+            "parts": [],
+            "isMultiPart": false
+          },
+          "install": {
+            "type": "portable",
+            "steps": [],
+            "uninstallSteps": []
+          },
+          "canRollback": true
+        }
+      ],
+      "download": {
+        "urls": [
+          "https://github.com/raassassin29/Assassin-hub/releases/download/assassin-tool-2-1-v2.1.0/Assassin_Tool_2.1.exe"
+        ],
+        "sha256": "0284135ebaf57d7acf67c49c78e6bad4488e40bd8015b9effc418c70be95ee73",
+        "size": 43647086,
+        "fileName": "Assassin_Tool_2.1.exe",
+        "parts": [],
+        "isMultiPart": false
+      },
+      "install": {
+        "type": "portable",
+        "steps": [],
+        "uninstallSteps": []
+      },
+      "dependencies": [],
+      "channel": "stable",
+      "tags": [
+        "File Manager | Project Manager | File Organizer | Auto Save | File Preview | Productivity Tool"
       ],
       "deprecated": false
     }
