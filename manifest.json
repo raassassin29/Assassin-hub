@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 22,
-  "generatedAt": "2026-11-01T06:53:22Z",
+  "sequence": 23,
+  "generatedAt": "2026-11-01T06:54:02Z",
   "launcher": {
     "version": "1.5.1",
     "kind": "zip",
@@ -416,7 +416,9 @@
       "name": "CTA Inserter",
       "description": "درج خودکار کال‌تو‌اکشن و اتو ارنج کلیپ‌ها در پریمیر",
       "longDescription": "CTA Inserter یک پنل برای Adobe Premiere Pro است که دو کار تکراری تدوین را خودکار می‌کند. در بخش «درج کال‌تو‌اکشن»، دو کال‌تو‌اکشن (از سکانس‌های ذخیره‌شده، کلیپ‌های همان پروژه یا فایل MOGRT) با فاصله‌ی دلخواه، به‌صورت یک‌در‌میان در طول ویدیو قرار می‌گیرند؛ مثلاً اولی در دقیقه ۲، ۶، ۱۰ و دومی در دقیقه ۴، ۸، ۱۲. در بخش «اتو ارنج»، کلیپ‌ها روی دو لایه‌ی ویدیویی پشت‌سرهم چیده می‌شوند و می‌شود ترنزیشن، extend لایه‌ی پایین، رنگ لیبل و قالب افکت هر لایه را هم یک‌جا اعمال کرد. قبل از اجرا یک سکانس بکاپ ساخته می‌شود و یک حالت «بررسی» بدون تغییر هم دارد. مناسب تدوینگرانی که ویدیوهای بلند را مرتب با همین الگو می‌چینند.",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ctainserter/logo.png?v=56c7c8e8da",
       "logoUrls": [],
+      "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ctainserter/poster.jpg?v=6d3a36febd",
       "posterUrls": [],
       "version": "1.0.0",
       "size": 2113741,
