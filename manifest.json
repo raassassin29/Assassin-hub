@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 26,
-  "generatedAt": "2026-11-02T00:51:57Z",
+  "sequence": 27,
+  "generatedAt": "2026-11-02T00:54:35Z",
   "launcher": {
     "version": "1.5.1",
     "kind": "zip",
@@ -781,6 +781,66 @@
       "channel": "stable",
       "tags": [
         "TeamSpeak | TS Manager | Scheduled Messages | Server Admin | Automation | YaTQA"
+      ],
+      "deprecated": false
+    },
+    {
+      "id": "command-sender",
+      "category": "app",
+      "name": "Command Sender",
+      "description": "تبدیل لیست لینک‌های موزیک به دستورات پخش خودکار در TeamSpeak.",
+      "longDescription": "Command Sender ابزاری تخصصی برای تبدیل لیست‌های نامرتب لینک‌های موسیقی به دستورات قابل اجرا توسط ربات موزیک سرور TeamSpeak است. برنامه لینک‌ها را پردازش کرده و دستورات پخش مربوط به هر موزیک را تولید می‌کند؛ سپس با استفاده از تایپ خودکار و ماکرو، دستورات را در محیط TeamSpeak ارسال می‌کند.\n\nامکانات اصلی:\n- دریافت لیست نامرتب لینک‌های موسیقی\n- استخراج و پردازش لینک‌های موزیک\n- تبدیل لینک‌ها به دستورات پخش ربات\n- آماده‌سازی دستورات متناسب با سیستم پخش سرور\n- ارسال خودکار دستورات از طریق تایپ و ماکرو\n- کاهش نیاز به واردکردن دستی دستورات برای تک‌تک موزیک‌ها\n- مناسب برای ارسال مجموعه‌ای از درخواست‌های پخش به ربات TeamSpeak",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/command-sender/logo.png?v=c8df82fe74",
+      "logoUrls": [],
+      "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/command-sender/poster.jpg?v=c0287a915d",
+      "posterUrls": [],
+      "version": "1.0.0",
+      "size": 48644023,
+      "publishedAt": "2026-11-02",
+      "patchNotes": "پچ‌نوت:\n- اولین انتشار\n- اضافه‌شدن قابلیت تبدیل گروهی لینک‌های موسیقی به دستورات پخش ربات TeamSpeak.\n- امکان ارسال خودکار دستورات از طریق تایپ و ماکرو.\nبرچسب‌ها:",
+      "history": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-02",
+          "notes": "پچ‌نوت:\n- اولین انتشار\n- اضافه‌شدن قابلیت تبدیل گروهی لینک‌های موسیقی به دستورات پخش ربات TeamSpeak.\n- امکان ارسال خودکار دستورات از طریق تایپ و ماکرو.\nبرچسب‌ها:",
+          "deprecated": false,
+          "download": {
+            "urls": [
+              "https://github.com/raassassin29/Assassin-hub/releases/download/command-sender-v1.0.0/command_sender.exe"
+            ],
+            "sha256": "b521f86aad5d5d95b864c2a8c567a304686f0efb377e21a88a64fee75142603a",
+            "size": 48644023,
+            "fileName": "command_sender.exe",
+            "parts": [],
+            "isMultiPart": false
+          },
+          "install": {
+            "type": "portable",
+            "steps": [],
+            "uninstallSteps": []
+          },
+          "canRollback": true
+        }
+      ],
+      "download": {
+        "urls": [
+          "https://github.com/raassassin29/Assassin-hub/releases/download/command-sender-v1.0.0/command_sender.exe"
+        ],
+        "sha256": "b521f86aad5d5d95b864c2a8c567a304686f0efb377e21a88a64fee75142603a",
+        "size": 48644023,
+        "fileName": "command_sender.exe",
+        "parts": [],
+        "isMultiPart": false
+      },
+      "install": {
+        "type": "portable",
+        "steps": [],
+        "uninstallSteps": []
+      },
+      "dependencies": [],
+      "channel": "stable",
+      "tags": [
+        "Command Sender | TeamSpeak | Music Bot | Auto Typing | Macro | Music Automation"
       ],
       "deprecated": false
     }
