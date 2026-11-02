@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 25,
-  "generatedAt": "2026-11-01T20:46:07Z",
+  "sequence": 26,
+  "generatedAt": "2026-11-02T00:51:57Z",
   "launcher": {
     "version": "1.5.1",
     "kind": "zip",
@@ -721,6 +721,66 @@
       "channel": "stable",
       "tags": [
         "File Manager | Project Manager | File Organizer | Auto Save | File Preview | Productivity Tool"
+      ],
+      "deprecated": false
+    },
+    {
+      "id": "ts-manager",
+      "category": "app",
+      "name": "TS Manager",
+      "description": "سال و زمان‌بندی خودکار پیام‌های سرور TeamSpeak از طریق پنل ادمین.",
+      "longDescription": "TS Manager ابزاری برای مدیریت و ارسال پیام‌های زمان‌بندی‌شده به سرورهای TeamSpeak است. این برنامه با استفاده از دسترسی پنل مدیریت سرور (YaTQA)، پیام‌ها را از طرف خود سرور و بدون نیاز به ارسال مستقیم توسط ممبر منتشر می‌کند.\n\nامکانات اصلی:\n- ارسال پیام از طرف سرور به‌جای ممبر\n- زمان‌بندی ارسال پیام‌ها\n- ارسال اطلاعیه‌ها و اخبار سرور\n- ارسال خودکار لینک‌ها و یادآوری‌ها\n- پشتیبانی از پیام‌های تکرارشونده و چرخه‌ای\n- مدیریت پیام‌هایی که نیاز به انتشار در زمان‌های مشخص دارند\n- استفاده از دسترسی مدیریتی برای ارسال پیام‌ها",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ts-manager/logo.png?v=c6e7bf82cb",
+      "logoUrls": [],
+      "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ts-manager/poster.jpg?v=da1ccad471",
+      "posterUrls": [],
+      "version": "1.0.0",
+      "size": 46007292,
+      "publishedAt": "2026-11-02",
+      "patchNotes": "پچ‌نوت:\n- اولین انتشار\n- اضافه‌شدن قابلیت ارسال پیام‌های زمان‌بندی‌شده از طرف سرور TeamSpeak.\n- امکان مدیریت اطلاعیه‌ها، لینک‌ها و پیام‌های تکرارشونده.",
+      "history": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-02",
+          "notes": "پچ‌نوت:\n- اولین انتشار\n- اضافه‌شدن قابلیت ارسال پیام‌های زمان‌بندی‌شده از طرف سرور TeamSpeak.\n- امکان مدیریت اطلاعیه‌ها، لینک‌ها و پیام‌های تکرارشونده.",
+          "deprecated": false,
+          "download": {
+            "urls": [
+              "https://github.com/raassassin29/Assassin-hub/releases/download/ts-manager-v1.0.0/TS_MANAGER_APP.exe"
+            ],
+            "sha256": "2871c2e0789902ea1571db3eb7479e046a32333f78cfe671bc47acf5690827d6",
+            "size": 46007292,
+            "fileName": "TS_MANAGER_APP.exe",
+            "parts": [],
+            "isMultiPart": false
+          },
+          "install": {
+            "type": "portable",
+            "steps": [],
+            "uninstallSteps": []
+          },
+          "canRollback": true
+        }
+      ],
+      "download": {
+        "urls": [
+          "https://github.com/raassassin29/Assassin-hub/releases/download/ts-manager-v1.0.0/TS_MANAGER_APP.exe"
+        ],
+        "sha256": "2871c2e0789902ea1571db3eb7479e046a32333f78cfe671bc47acf5690827d6",
+        "size": 46007292,
+        "fileName": "TS_MANAGER_APP.exe",
+        "parts": [],
+        "isMultiPart": false
+      },
+      "install": {
+        "type": "portable",
+        "steps": [],
+        "uninstallSteps": []
+      },
+      "dependencies": [],
+      "channel": "stable",
+      "tags": [
+        "TeamSpeak | TS Manager | Scheduled Messages | Server Admin | Automation | YaTQA"
       ],
       "deprecated": false
     }
