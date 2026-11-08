@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 27,
-  "generatedAt": "2026-11-02T00:54:35Z",
+  "sequence": 28,
+  "generatedAt": "2026-11-08T08:59:09Z",
   "launcher": {
     "version": "1.5.1",
     "kind": "zip",
@@ -841,6 +841,66 @@
       "channel": "stable",
       "tags": [
         "Command Sender | TeamSpeak | Music Bot | Auto Typing | Macro | Music Automation"
+      ],
+      "deprecated": false
+    },
+    {
+      "id": "assassin-region-checker",
+      "category": "app",
+      "name": "AssassinRegionChecker",
+      "description": "پیدا کردن بهترین Download Region استیم بر اساس کیفیت اتصال و سرعت اینترنت شما.",
+      "longDescription": "Assassin Region Checker ابزاری برای مقایسه و ارزیابی Download Regionهای استیم است. با آزمایش سرورهای اختصاصی هر ریجن، بهترین گزینه‌ها را بر اساس کیفیت اتصال و سرعت دانلود تخمینی مشخص می‌کند؛ بدون نیاز به ورود به حساب Steam یا تغییر تنظیمات آن.\r\nامکانات اصلی:\n- نمایش ۳ ریجن برتر با پرچم، پینگ و سرعت تخمینی\n- بررسی پینگ، Jitter و Packet Loss\n- نمایش وضعیت اتصال و میزان لود سرورها\n- نمایش فهرست ریجن‌های Steam به تفکیک کشور\n- مقایسه ریجن‌های دستی با Automatic\n- اندازه‌گیری سرعت اینترنت برای تخمین دقیق‌تر\n- بررسی مجدد ۵ ریجن برتر برای افزایش دقت نتایج\n- تشخیص اتصال‌های مشکوک ناشی از VPN یا پروکسی\n- خروجی CSV از نتایج آزمایش\n- ذخیره محلی اطلاعات برای اجرای سریع‌تر",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-region-checker/logo.png?v=d83a900cd7",
+      "logoUrls": [],
+      "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-region-checker/poster.jpg?v=a3efd4dca8",
+      "posterUrls": [],
+      "version": "1.0.0",
+      "size": 45584128,
+      "publishedAt": "2026-11-08",
+      "patchNotes": "انتشار اولین نسخه Assassin Region Checker\n\n\n\nاضافه‌شدن سیستم تست اختصاصی سرورهای هر ریجن بر اساس CellId\n\n\n\nاضافه‌شدن فهرست ریجن‌های Steam همراه با پرچم و دسته‌بندی کشوری\n\n\n\nاضافه‌شدن نمایش ۳ ریجن برتر و مقایسه با Automatic\n\n\n\nاضافه‌شدن مرحله تأیید مجدد ۵ ریجن برتر\n\n\n\nاضافه‌شدن تشخیص اتصال‌های مشکوک\n\n\n\nاضافه‌شدن اندازه‌گیری سرعت اینترنت و خروجی CSV\n\n\n\nاضافه‌شدن کش محلی و روش‌های جایگزین دریافت اطلاعات سرورها\n\n\n\nحذف سرورهای CDN غیرقابل انتخاب از نتایج",
+      "history": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-08",
+          "notes": "انتشار اولین نسخه Assassin Region Checker\n\n\n\nاضافه‌شدن سیستم تست اختصاصی سرورهای هر ریجن بر اساس CellId\n\n\n\nاضافه‌شدن فهرست ریجن‌های Steam همراه با پرچم و دسته‌بندی کشوری\n\n\n\nاضافه‌شدن نمایش ۳ ریجن برتر و مقایسه با Automatic\n\n\n\nاضافه‌شدن مرحله تأیید مجدد ۵ ریجن برتر\n\n\n\nاضافه‌شدن تشخیص اتصال‌های مشکوک\n\n\n\nاضافه‌شدن اندازه‌گیری سرعت اینترنت و خروجی CSV\n\n\n\nاضافه‌شدن کش محلی و روش‌های جایگزین دریافت اطلاعات سرورها\n\n\n\nحذف سرورهای CDN غیرقابل انتخاب از نتایج",
+          "deprecated": false,
+          "download": {
+            "urls": [
+              "https://github.com/raassassin29/Assassin-hub/releases/download/assassin-region-checker-v1.0.0/AssassinRegionChecker.exe"
+            ],
+            "sha256": "aa735593bcfde2e8a9b54adaceba2eb0e4165e6e282749d6dba7989e2efa9e7e",
+            "size": 45584128,
+            "fileName": "AssassinRegionChecker.exe",
+            "parts": [],
+            "isMultiPart": false
+          },
+          "install": {
+            "type": "portable",
+            "steps": [],
+            "uninstallSteps": []
+          },
+          "canRollback": true
+        }
+      ],
+      "download": {
+        "urls": [
+          "https://github.com/raassassin29/Assassin-hub/releases/download/assassin-region-checker-v1.0.0/AssassinRegionChecker.exe"
+        ],
+        "sha256": "aa735593bcfde2e8a9b54adaceba2eb0e4165e6e282749d6dba7989e2efa9e7e",
+        "size": 45584128,
+        "fileName": "AssassinRegionChecker.exe",
+        "parts": [],
+        "isMultiPart": false
+      },
+      "install": {
+        "type": "portable",
+        "steps": [],
+        "uninstallSteps": []
+      },
+      "dependencies": [],
+      "channel": "stable",
+      "tags": [
+        "Steam | Network Tool | Region Checker | Ping Tester | Download Optimizer | Internet Diagnostics"
       ],
       "deprecated": false
     }
