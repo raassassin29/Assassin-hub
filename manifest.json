@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 28,
-  "generatedAt": "2026-11-08T08:59:09Z",
+  "sequence": 29,
+  "generatedAt": "2026-11-08T12:42:24Z",
   "launcher": {
     "version": "1.5.1",
     "kind": "zip",
@@ -901,6 +901,68 @@
       "channel": "stable",
       "tags": [
         "Steam | Network Tool | Region Checker | Ping Tester | Download Optimizer | Internet Diagnostics"
+      ],
+      "deprecated": false
+    },
+    {
+      "id": "assassinmediaencoder",
+      "category": "app",
+      "name": "AssassinMediaEncoder",
+      "description": "کاهش حجم ویدیوهای سنگین رندر با H.265، تقریباً بدون افت کیفیت قابل‌دیدن، همراه با پیش‌نمایش قبل و بعد، صف و تحلیل هوشمند.",
+      "longDescription": "Assassin Media Encoder ابزاری برای کوچک‌کردن حجم ویدیوهای رندرشده (مثل خروجی Adobe Media Encoder و Premiere) است. قبل از شروع، حجم نهایی را تخمین می‌زند و پیش‌نمایش قبل و بعد نشان می‌دهد. با «بررسی هوشمند»، ویدیو را تحلیل می‌کند و بهترین روش (پردازنده یا کارت گرافیک) را بر اساس سختی تصویر پیشنهاد می‌دهد. فایل اصلی هرگز تغییر نمی‌کند و خروجی در پوشه‌ای جدا ذخیره می‌شود. FFmpeg همراه برنامه ارائه می‌شود و نیازی به نصب جداگانه نیست.\n\nامکانات اصلی:\n\nفشرده‌سازی با H.265 (HEVC) و H.264، با حالت نرم‌افزاری (CPU) برای بهترین کیفیت و حالت سخت‌افزاری (GPU) برای سرعت بالا\nپشتیبانی GPU از NVIDIA (NVENC) و AMD (AMF، آزمایشی)\nپیش‌نمایش قبل و بعد با اسلایدر روی سه نقطه‌ی ویدیو، و تخمین حجم نهایی\nبررسی هوشمند: دسته‌بندی سختی ویدیو، زمان تخمینی، پیشنهاد روش و امتیاز کیفیت (VMAF)\nصف چندفایلی با توقف، ادامه و تلاش دوباره، ذخیره‌ی صف و جلوگیری از خواب سیستم در حین کار\nدیده‌بان رندر: وقتی رندر جدیدی در پوشه‌ی انتخابی ظاهر شد، اعلان ویندوز با دکمه‌ی «فشرده‌سازی» (اختیاری، سبک و مستقل از اپ اصلی)\n۹ پیش‌تنظیم آماده و امکان ساخت و ذخیره‌ی پیش‌تنظیم دلخواه\nتنظیمات پیشرفته: رزولوشن، نرخ فریم، حجم هدف، ۲-پاس (CPU)، ۱۰ بیت، حفاظت صحنه‌های تیره، تنظیمات صدا و قالب خروجی MP4 / MKV / MOV\nبررسی سالم‌بودن فایل خروجی بعد از هر فشرده‌سازی\nرابط فارسی و انگلیسی با تغییر فوری زبان",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassinmediaencoder/logo.png?v=040b052683",
+      "logoUrls": [],
+      "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassinmediaencoder/poster.jpg?v=e9ad90ea5f",
+      "posterUrls": [],
+      "version": "1.4.1",
+      "size": 143507292,
+      "publishedAt": "2026-11-08",
+      "patchNotes": "انتشار اولین نسخه Assassin Media Encoder\nاضافه‌شدن فشرده‌سازی H.265 و H.264 با انکد CPU و GPU (NVIDIA، و AMD به‌صورت آزمایشی)\nاضافه‌شدن پیش‌نمایش قبل و بعد و تخمین حجم نهایی\nاضافه‌شدن بررسی هوشمند همراه با امتیاز کیفیت\nاضافه‌شدن صف چندفایلی\nاضافه‌شدن دیده‌بان رندر با اعلان ویندوز\nاضافه‌شدن پیش‌تنظیم‌های آماده و تنظیمات پیشرفته\nاضافه‌شدن رابط فارسی و انگلیسی",
+      "history": [
+        {
+          "version": "1.4.1",
+          "date": "2026-11-08",
+          "notes": "انتشار اولین نسخه Assassin Media Encoder\nاضافه‌شدن فشرده‌سازی H.265 و H.264 با انکد CPU و GPU (NVIDIA، و AMD به‌صورت آزمایشی)\nاضافه‌شدن پیش‌نمایش قبل و بعد و تخمین حجم نهایی\nاضافه‌شدن بررسی هوشمند همراه با امتیاز کیفیت\nاضافه‌شدن صف چندفایلی\nاضافه‌شدن دیده‌بان رندر با اعلان ویندوز\nاضافه‌شدن پیش‌تنظیم‌های آماده و تنظیمات پیشرفته\nاضافه‌شدن رابط فارسی و انگلیسی",
+          "deprecated": false,
+          "download": {
+            "urls": [
+              "https://github.com/raassassin29/Assassin-hub/releases/download/assassinmediaencoder-v1.4.1/AssassinMediaEncoder-1.4.1.zip"
+            ],
+            "sha256": "04a2d8c3ea1d76f73b1b5a0f9b59301e5fd9b4ce8da8018577052f415b492e3c",
+            "size": 143507292,
+            "fileName": "AssassinMediaEncoder-1.4.1.zip",
+            "parts": [],
+            "isMultiPart": false
+          },
+          "install": {
+            "type": "archive",
+            "entry": "AssassinMediaEncoder.exe",
+            "steps": [],
+            "uninstallSteps": []
+          },
+          "canRollback": true
+        }
+      ],
+      "download": {
+        "urls": [
+          "https://github.com/raassassin29/Assassin-hub/releases/download/assassinmediaencoder-v1.4.1/AssassinMediaEncoder-1.4.1.zip"
+        ],
+        "sha256": "04a2d8c3ea1d76f73b1b5a0f9b59301e5fd9b4ce8da8018577052f415b492e3c",
+        "size": 143507292,
+        "fileName": "AssassinMediaEncoder-1.4.1.zip",
+        "parts": [],
+        "isMultiPart": false
+      },
+      "install": {
+        "type": "archive",
+        "entry": "AssassinMediaEncoder.exe",
+        "steps": [],
+        "uninstallSteps": []
+      },
+      "dependencies": [],
+      "channel": "stable",
+      "tags": [
+        "Video Compressor | HEVC | H.265 | FFmpeg | Video Tools | GPU Encoding | Premiere Pro | Render Optimizer"
       ],
       "deprecated": false
     }
