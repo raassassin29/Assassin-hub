@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "sequence": 32,
-  "generatedAt": "2026-11-09T11:12:53Z",
+  "sequence": 33,
+  "generatedAt": "2026-11-14T15:37:07Z",
   "launcher": {
-    "version": "1.5.2",
+    "version": "1.5.3",
     "kind": "zip",
     "download": {
       "urls": [
-        "https://github.com/raassassin29/Assassin-hub/releases/download/launcher-v1.5.2/AssassinHub-1.5.2.zip"
+        "https://github.com/raassassin29/Assassin-hub/releases/download/launcher-v1.5.3/AssassinHub-1.5.3.zip"
       ],
-      "sha256": "960fc9464c76ad9b2ac1df7815b72c73ec31f484972fa5aa0ddec55b4ae331c5",
-      "size": 108457486,
-      "fileName": "AssassinHub-1.5.2.zip",
+      "sha256": "7c33c6e548017d0036a7b45c348cd46b0e93774cfffad8bdf83f4b5132e61db0",
+      "size": 108488231,
+      "fileName": "AssassinHub-1.5.3.zip",
       "parts": [],
       "isMultiPart": false
     },
-    "patchNotes": "Assassin Hub 1.5.2\r\n\r\nFIXED\r\n- Fixed \"All download sources failed / 504 Gateway Time-out\" when downloading apps, plugins and games.\r\n  On some networks GitHub's direct download link returned a 504 even though the file was fine.\r\n\r\nWHAT CHANGED\r\n- If the direct GitHub link fails, the launcher now automatically downloads the same file through GitHub's official API. No action needed.\r\n- If the direct link works, behavior is unchanged.\r\n- SHA-256 verification, resume of partial downloads and mirrors work as before.\r\n- If both routes fail, the launcher moves on to the next mirror and shows the error for each source.\r\n\r\nTECHNICAL\r\n- Launcher version bumped to 1.5.2.\r\n- 4 new automated tests for the download fallback.\r\n\r\nNOTE\r\n- Launchers 1.5.1 and older do not have this fix. If their auto-update gets stuck on a 504, run the 1.5.2 Setup once (it installs over the old version and keeps your data)."
+    "patchNotes": "اضافه شدن قابلیت انتشار با لینک و ساخت لینک مستقیم برای همه اپ های Assassin Hub / باگ فیکس و بهینه سازی اپ"
   },
   "categories": [
     {
