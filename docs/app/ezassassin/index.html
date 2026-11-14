@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src https: data:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; base-uri 'none'; form-action 'none'">
+<meta name="theme-color" content="#07090C">
+<title>EzAssassin — Assassin Hub</title>
+<meta name="description" content="مدیریت چند سشن و اکانت در یک مرورگر">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Assassin Hub">
+<meta property="og:title" content="EzAssassin — Assassin Hub">
+<meta property="og:description" content="مدیریت چند سشن و اکانت در یک مرورگر">
+<meta property="og:url" content="https://raassassin29.github.io/Assassin-hub/app/ezassassin/">
+<meta property="og:image" content="https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ezassassin/poster.jpg?v=cab91249d4">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ezassassin/poster.jpg?v=cab91249d4">
+<link rel="canonical" href="https://raassassin29.github.io/Assassin-hub/app/ezassassin/">
+<link rel="icon" href="https://raassassin29.github.io/Assassin-hub/hub-logo.png">
+<style>
+:root{--bg:#07090C;--panel:#0E1319;--line:#16222b;--text:#E8F1F2;--dim:#8FA3A8;--accent:#18E0D8;--accent2:#12B5AE}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%}
+body{background:radial-gradient(1100px 560px at 50% -8%,rgba(24,224,216,.15),transparent 62%),var(--bg);color:var(--text);
+font-family:"Vazirmatn","Segoe UI",Tahoma,"Noto Sans Arabic",system-ui,sans-serif;display:flex;align-items:center;justify-content:center;padding:28px 16px;line-height:1.75}
+.card{width:100%;max-width:860px;background:linear-gradient(180deg,rgba(14,19,25,.97),rgba(9,13,17,.97));border:1px solid var(--line);border-radius:22px;padding:28px;
+display:grid;grid-template-columns:260px 1fr;gap:28px;box-shadow:0 30px 80px rgba(0,0,0,.55),0 0 0 1px rgba(24,224,216,.05)}
+.card.single{grid-template-columns:1fr;max-width:560px;text-align:center}
+.brand{display:flex;align-items:center;gap:10px;margin:0 0 18px;color:var(--dim);font-size:13px}
+.brand img{width:28px;height:28px;border-radius:50%}
+.poster{aspect-ratio:2/3;width:100%;border-radius:16px;border:1px solid var(--line);background:#0b1016;overflow:hidden;box-shadow:0 0 34px rgba(24,224,216,.10)}
+.poster img{width:100%;height:100%;object-fit:cover;display:block}
+.poster.nopic{display:flex;align-items:center;justify-content:center;background:radial-gradient(circle at 50% 35%,#10303a,#0b1016 70%)}
+.poster.nopic img{width:46%;height:auto;object-fit:contain;opacity:.92}
+h1{margin:0 0 6px;font-size:28px;line-height:1.35}
+.short{color:var(--dim);margin:0 0 14px;font-size:15px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 16px}
+.chip{border:1px solid var(--line);background:rgba(255,255,255,.03);border-radius:999px;padding:2px 12px;font-size:12.5px;color:#BFD0D3}
+.chip b{color:var(--accent);font-weight:600;margin-inline-end:4px}
+.long{color:#B6C6C9;font-size:14px;margin:0 0 20px;white-space:pre-line}
+.btns{display:flex;flex-direction:column;gap:10px;max-width:360px}
+.single .btns{margin:0 auto}
+.btn{display:flex;align-items:center;justify-content:center;text-decoration:none;border-radius:12px;padding:12px 18px;font-weight:700;font-size:15px;border:1px solid var(--accent);transition:.15s}
+.btn.main{background:linear-gradient(135deg,var(--accent2),var(--accent));color:#021312;border-color:transparent}
+.btn.main:hover{box-shadow:0 0 22px rgba(24,224,216,.45);transform:translateY(-1px)}
+.btn.ghost{color:var(--accent);background:transparent}
+.btn.ghost:hover{background:rgba(24,224,216,.08)}
+.status{margin:14px 0 0;font-size:13px;color:var(--dim);min-height:1.75em}
+.note{margin:6px 0 0;font-size:12px;color:#6F8388}
+.big-logo{width:96px;height:96px;border-radius:50%;margin:0 auto 14px;display:block;box-shadow:0 0 40px rgba(24,224,216,.25)}
+@media (max-width:720px){.card{grid-template-columns:1fr;padding:20px}.poster{max-width:240px;margin:0 auto}.btns{max-width:none}}
+</style>
+</head>
+<body data-id="ezassassin">
+<main class="card">
+<div><div class="poster"><img src="https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ezassassin/poster.jpg?v=cab91249d4" alt="EzAssassin"></div></div>
+<div>
+<div class="brand"><img src="https://raassassin29.github.io/Assassin-hub/hub-logo.png" alt="" onerror="this.style.display='none'"><span dir="ltr">Assassin Hub</span></div>
+<h1>EzAssassin</h1>
+<p class="short">مدیریت چند سشن و اکانت در یک مرورگر</p>
+<div class="chips"><span class="chip"><b>دسته</b>اپ‌ها</span><span class="chip"><b>نسخه</b><span dir="ltr">1.0.0</span></span><span class="chip"><b>حجم</b><span dir="ltr">47/8 MB</span></span><span class="chip"><b>به‌روزرسانی</b><span dir="ltr">1405/08/10 — 2026-11-01</span></span><span class="chip">Multi-Account</span><span class="chip">Multi-Session</span><span class="chip">Browser</span><span class="chip">Steam</span></div>
+<p class="long">Ez Assassin یک مرورگر چندسشنی است که امکان مدیریت هم‌زمان چند حساب کاربری اینترنتی را ساده‌تر می‌کند. این ابزار در ابتدا با تمرکز بر کاربران چنداکانته‌ی Steam و سایت EasySkins طراحی شد، اما کاربرد آن به سایر فعالیت‌های اینترنتی چنداکانته نیز گسترش پیدا کرد. مناسب افرادی است که برای مدیریت حساب‌های متعدد به محیطی منظم و کاربردی نیاز دارند.</p>
+<div class="btns">
+<a class="btn main" id="open" href="assassinhub://app/ezassassin">رفتن به صفحه این اپ در اساسین هاب</a>
+<a class="btn ghost" href="https://github.com/raassassin29/Assassin-hub/releases/download/hub/AssassinHub-Setup.exe" rel="noopener"><span dir="ltr">Download Assassin Hub</span></a>
+</div>
+<p class="status" id="st" aria-live="polite"></p>
+<p class="note">اساسین هاب فقط برای ویندوز است. اگر هاب را ندارید، اول آن را نصب کنید و بعد دوباره روی همین لینک بزنید. اگر ویندوز هشدار داد: More info ← Run anyway</p>
+</div>
+</main>
+<script>
+(function(){
+var id=document.body.getAttribute('data-id');
+var link=document.getElementById('open').getAttribute('href');
+var st=document.getElementById('st');
+var key='ah-opened-'+id, tried=false;
+try{tried=sessionStorage.getItem(key)==='1';}catch(e){}
+if(!tried){
+try{sessionStorage.setItem(key,'1');}catch(e){}
+st.textContent='در حال باز کردن اساسین هاب…';
+setTimeout(function(){window.location.href=link;},400);
+setTimeout(function(){st.textContent='اگر اساسین هاب باز نشد، یکی از دکمه‌های بالا را بزنید.';},3500);
+}else{st.textContent='برای باز کردن دوباره، دکمه‌ی بالا را بزنید.';}
+document.getElementById('open').addEventListener('click',function(){st.textContent='در حال باز کردن اساسین هاب…';});
+})();
+</script>
+</body>
+</html>
