@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 33,
-  "generatedAt": "2026-11-14T15:37:07Z",
+  "sequence": 34,
+  "generatedAt": "2026-11-20T11:59:57Z",
   "launcher": {
     "version": "1.5.3",
     "kind": "zip",
@@ -985,6 +985,68 @@
       "channel": "stable",
       "tags": [
         "Video Compressor | HEVC | H.265 | FFmpeg | Video Tools | GPU Encoding | Premiere Pro | Render Optimizer"
+      ],
+      "deprecated": false
+    },
+    {
+      "id": "assassingamebooster",
+      "category": "app",
+      "name": "Assassin Game Booster",
+      "description": "افزایش منابع در دسترس بازی با مدیریت هوشمند برنامه‌های پس‌زمینه و ابزارهای کاربردی گیمینگ.",
+      "longDescription": "Assassin Game Booster هنگام اجرای بازی، برنامه‌های غیرضروری پس‌زمینه را به‌صورت موقت مدیریت می‌کند تا منابع بیشتری در اختیار بازی قرار بگیرند. پس از خروج از بازی، برنامه‌ها به وضعیت قبلی بازگردانده می‌شوند. سیستم محافظت از برنامه‌های ضروری ویندوز و فهرست شخصی «دست نزن» نیز مانع مدیریت ناخواسته آن‌ها می‌شود.\n\nدر کنار قابلیت بوست، مجموعه‌ای از ابزارهای کاربردی برای گیمرها از جمله انتخاب سرور CS2، بهینه‌سازی DNS وارزون و بررسی وضعیت اینترنت ارائه می‌دهد.\n\nامکانات اصلی:\n- تشخیص خودکار اجرای بازی و شروع بوست\n- امکان شروع بوست به‌صورت دستی\n- سه روش مدیریت برنامه‌ها: کاهش مصرف حافظه، فریز و بستن\n- محافظت از برنامه‌های ضروری ویندوز و فهرست «دست نزن»\n- مدیریت و بازگردانی تکی یا گروهی برنامه‌ها\n- بازگردانی خودکار برنامه‌ها پس از بسته شدن بازی\n- سیستم محافظ مستقل برای آزادسازی برنامه‌های فریز‌شده در صورت بسته‌شدن ناگهانی اپ\n- بهینه‌سازی پینگ و مدیریت موقت ترافیک برنامه‌های پس‌زمینه\n- ابزار انتخاب سرور CS2\n- ابزار تست و اعمال DNS مناسب برای وارزون همراه با امکان بازگردانی تنظیمات\n- بررسی Download Region استیم\n- ویجت اینترنت با قابلیت تنظیم شفافیت و نحوه نمایش\n- حالت آزمایشی بدون اعمال تغییرات\n- اجرای خودکار با ویندوز به‌صورت اختیاری\n- رابط فارسی با تم مشکی و فیروزه‌ای",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassingamebooster/logo.png?v=fa519c6dfc",
+      "logoUrls": [],
+      "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassingamebooster/poster.jpg?v=20f21943dc",
+      "posterUrls": [],
+      "version": "1.0.0",
+      "size": 76926705,
+      "publishedAt": "2026-11-20",
+      "patchNotes": "پچ‌نوت:\n- انتشار اولین نسخه عمومی Assassin Game Booster\n- اضافه‌شدن بوست خودکار و دستی بازی\n- اضافه‌شدن سه روش مدیریت برنامه‌های پس‌زمینه\n- اضافه‌شدن فهرست برنامه‌های محافظت‌شده\n- اضافه‌شدن پنجره برنامه‌های مدیریت‌شده و قابلیت بازگردانی تکی\n- اضافه‌شدن سیستم بازگردانی خودکار و محافظ مستقل\n- اضافه‌شدن ابزار DNS وارزون با بهبود فرایند اعمال و بررسی\n- اضافه‌شدن ابزار انتخاب سرور CS2\n- اضافه‌شدن ویجت اینترنت",
+      "history": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-20",
+          "notes": "پچ‌نوت:\n- انتشار اولین نسخه عمومی Assassin Game Booster\n- اضافه‌شدن بوست خودکار و دستی بازی\n- اضافه‌شدن سه روش مدیریت برنامه‌های پس‌زمینه\n- اضافه‌شدن فهرست برنامه‌های محافظت‌شده\n- اضافه‌شدن پنجره برنامه‌های مدیریت‌شده و قابلیت بازگردانی تکی\n- اضافه‌شدن سیستم بازگردانی خودکار و محافظ مستقل\n- اضافه‌شدن ابزار DNS وارزون با بهبود فرایند اعمال و بررسی\n- اضافه‌شدن ابزار انتخاب سرور CS2\n- اضافه‌شدن ویجت اینترنت",
+          "deprecated": false,
+          "download": {
+            "urls": [
+              "https://github.com/raassassin29/Assassin-hub/releases/download/assassingamebooster-v1.0.0/AssassinBooster-win-x64.zip"
+            ],
+            "sha256": "2c3384d260a661b70a87acc6961f9974e10e26e8ace614cfe457be9d898cf1a8",
+            "size": 76926705,
+            "fileName": "AssassinBooster-win-x64.zip",
+            "parts": [],
+            "isMultiPart": false
+          },
+          "install": {
+            "type": "archive",
+            "entry": "AssassinBooster.Engine.exe",
+            "steps": [],
+            "uninstallSteps": []
+          },
+          "canRollback": true
+        }
+      ],
+      "download": {
+        "urls": [
+          "https://github.com/raassassin29/Assassin-hub/releases/download/assassingamebooster-v1.0.0/AssassinBooster-win-x64.zip"
+        ],
+        "sha256": "2c3384d260a661b70a87acc6961f9974e10e26e8ace614cfe457be9d898cf1a8",
+        "size": 76926705,
+        "fileName": "AssassinBooster-win-x64.zip",
+        "parts": [],
+        "isMultiPart": false
+      },
+      "install": {
+        "type": "archive",
+        "entry": "AssassinBooster.Engine.exe",
+        "steps": [],
+        "uninstallSteps": []
+      },
+      "dependencies": [],
+      "channel": "stable",
+      "tags": [
+        "Game Booster | Gaming Tools | Performance Optimizer | Network Optimizer | CS2 | Warzone | Steam"
       ],
       "deprecated": false
     }
