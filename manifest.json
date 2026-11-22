@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 48,
-  "generatedAt": "2026-11-22T11:44:52Z",
+  "sequence": 49,
+  "generatedAt": "2026-11-22T11:45:12Z",
   "launcher": {
     "version": "1.5.4",
     "kind": "zip",
@@ -850,7 +850,7 @@
       "name": "AssassinRegionChecker",
       "description": "پیدا کردن بهترین Download Region استیم بر اساس کیفیت اتصال و سرعت اینترنت شما.",
       "longDescription": "Assassin Region Checker ابزاری برای مقایسه و ارزیابی Download Regionهای استیم است. با آزمایش سرورهای اختصاصی هر ریجن، بهترین گزینه‌ها را بر اساس کیفیت اتصال و سرعت دانلود تخمینی مشخص می‌کند؛ بدون نیاز به ورود به حساب Steam یا تغییر تنظیمات آن.\r\nامکانات اصلی:\n- نمایش ۳ ریجن برتر با پرچم، پینگ و سرعت تخمینی\n- بررسی پینگ، Jitter و Packet Loss\n- نمایش وضعیت اتصال و میزان لود سرورها\n- نمایش فهرست ریجن‌های Steam به تفکیک کشور\n- مقایسه ریجن‌های دستی با Automatic\n- اندازه‌گیری سرعت اینترنت برای تخمین دقیق‌تر\n- بررسی مجدد ۵ ریجن برتر برای افزایش دقت نتایج\n- تشخیص اتصال‌های مشکوک ناشی از VPN یا پروکسی\n- خروجی CSV از نتایج آزمایش\n- ذخیره محلی اطلاعات برای اجرای سریع‌تر",
-      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-region-checker/logo.png?v=d83a900cd7",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-region-checker/logo.png?v=bd3e15d6a7",
       "logoUrls": [],
       "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-region-checker/poster.jpg?v=a3efd4dca8",
       "posterUrls": [],
