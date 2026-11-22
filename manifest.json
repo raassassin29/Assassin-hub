@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "sequence": 36,
-  "generatedAt": "2026-11-20T14:45:25Z",
+  "sequence": 37,
+  "generatedAt": "2026-11-22T00:50:02Z",
   "launcher": {
-    "version": "1.5.3",
+    "version": "1.5.4",
     "kind": "zip",
     "download": {
       "urls": [
-        "https://github.com/raassassin29/Assassin-hub/releases/download/launcher-v1.5.3/AssassinHub-1.5.3.zip"
+        "https://github.com/raassassin29/Assassin-hub/releases/download/launcher-v1.5.4/AssassinHub-1.5.4.zip"
       ],
-      "sha256": "7c33c6e548017d0036a7b45c348cd46b0e93774cfffad8bdf83f4b5132e61db0",
-      "size": 108488231,
-      "fileName": "AssassinHub-1.5.3.zip",
+      "sha256": "494f1f171050db703fd6e2ce0031309ffe17409c77c651735f60aa79de73832e",
+      "size": 108494000,
+      "fileName": "AssassinHub-1.5.4.zip",
       "parts": [],
       "isMultiPart": false
     },
-    "patchNotes": "اضافه شدن قابلیت انتشار با لینک و ساخت لینک مستقیم برای همه اپ های Assassin Hub / باگ فیکس و بهینه سازی اپ"
+    "patchNotes": "تغییر ایکون همه اپ های هاب \r\nبعد از این اپدیت یکبار همه شورتکات های اپ های دانلودی شما از نو ساخته میشود لطفا یک دور دسکتاپ خودتون رو چک کنید "
   },
   "categories": [
     {
