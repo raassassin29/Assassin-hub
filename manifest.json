@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 42,
-  "generatedAt": "2026-11-22T11:42:13Z",
+  "sequence": 43,
+  "generatedAt": "2026-11-22T11:42:46Z",
   "launcher": {
     "version": "1.5.4",
     "kind": "zip",
@@ -296,7 +296,7 @@
       "name": "Assassin Project Maker",
       "description": "ساخت پوشه پروژه و دریافت خودکار فایل‌ها از تلگرام",
       "longDescription": "Assassin Project Manager ابزاری برای مدیریت و سازمان‌دهی پروژه‌های تدوین ویدیو است. برنامه با دریافت مسیر اصلی پروژه‌ها، برای هر پروژه یک پوشه اختصاصی با ساختار از پیش تعریف‌شده شامل فوتیج، وکال، موزیک، فایل‌های ذخیره‌شده Premiere و سایر پوشه‌های موردنیاز ایجاد می‌کند. همچنین با استفاده از ربات تلگرامی اختصاصی، امکان ارسال نام پروژه و فوروارد کردن فایل‌ها از طریق تلگرام را فراهم می‌کند. فایل‌های دریافت‌شده به‌صورت خودکار دانلود و در پوشه مربوط به پروژه روی کامپیوتر ذخیره می‌شوند. این ابزار به تدوینگرها کمک می‌کند بدون نیاز به انتقال دستی و مرتب‌سازی مداوم فایل‌ها، پروژه‌های خود را سریع‌تر ایجاد و مدیریت کنند.",
-      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-project-maker/logo.png?v=dff0740764",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-project-maker/logo.png?v=d55fae2dc9",
       "logoUrls": [],
       "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-project-maker/poster.jpg?v=0fcfe0ba74",
       "posterUrls": [],
