@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 51,
-  "generatedAt": "2026-11-22T11:46:01Z",
+  "sequence": 52,
+  "generatedAt": "2026-11-22T11:46:28Z",
   "launcher": {
     "version": "1.5.4",
     "kind": "zip",
@@ -730,7 +730,7 @@
       "name": "TS Manager",
       "description": "سال و زمان‌بندی خودکار پیام‌های سرور TeamSpeak از طریق پنل ادمین.",
       "longDescription": "TS Manager ابزاری برای مدیریت و ارسال پیام‌های زمان‌بندی‌شده به سرورهای TeamSpeak است. این برنامه با استفاده از دسترسی پنل مدیریت سرور (YaTQA)، پیام‌ها را از طرف خود سرور و بدون نیاز به ارسال مستقیم توسط ممبر منتشر می‌کند.\n\nامکانات اصلی:\n- ارسال پیام از طرف سرور به‌جای ممبر\n- زمان‌بندی ارسال پیام‌ها\n- ارسال اطلاعیه‌ها و اخبار سرور\n- ارسال خودکار لینک‌ها و یادآوری‌ها\n- پشتیبانی از پیام‌های تکرارشونده و چرخه‌ای\n- مدیریت پیام‌هایی که نیاز به انتشار در زمان‌های مشخص دارند\n- استفاده از دسترسی مدیریتی برای ارسال پیام‌ها",
-      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ts-manager/logo.png?v=c6e7bf82cb",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ts-manager/logo.png?v=48ae76d503",
       "logoUrls": [],
       "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ts-manager/poster.jpg?v=da1ccad471",
       "posterUrls": [],
