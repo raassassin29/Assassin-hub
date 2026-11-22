@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 50,
-  "generatedAt": "2026-11-22T11:45:40Z",
+  "sequence": 51,
+  "generatedAt": "2026-11-22T11:46:01Z",
   "launcher": {
     "version": "1.5.4",
     "kind": "zip",
@@ -544,7 +544,7 @@
       "name": "EzAssassin",
       "description": "مدیریت چند سشن و اکانت در یک مرورگر",
       "longDescription": "Ez Assassin یک مرورگر چندسشنی است که امکان مدیریت هم‌زمان چند حساب کاربری اینترنتی را ساده‌تر می‌کند. این ابزار در ابتدا با تمرکز بر کاربران چنداکانته‌ی Steam و سایت EasySkins طراحی شد، اما کاربرد آن به سایر فعالیت‌های اینترنتی چنداکانته نیز گسترش پیدا کرد. مناسب افرادی است که برای مدیریت حساب‌های متعدد به محیطی منظم و کاربردی نیاز دارند.",
-      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ezassassin/logo.png?v=93cca5dc4c",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ezassassin/logo.png?v=f6da750614",
       "logoUrls": [],
       "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/ezassassin/poster.jpg?v=cab91249d4",
       "posterUrls": [],
