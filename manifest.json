@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 44,
-  "generatedAt": "2026-11-22T11:43:07Z",
+  "sequence": 45,
+  "generatedAt": "2026-11-22T11:43:39Z",
   "launcher": {
     "version": "1.5.4",
     "kind": "zip",
@@ -236,7 +236,7 @@
       "name": "AssassinAutoShutdown",
       "description": "خاموشی خودکار کامپیوتر پس از پایان دانلودهای Steam",
       "longDescription": "Assassin Auto Shutdown ابزاری برای مدیریت هوشمند خاموش شدن کامپیوتر پس از اتمام دانلودهای Steam است. برنامه با بررسی وضعیت دانلودها، صف دانلود، عملیات Staging و تشخیص بصری وضعیت Play، پایان واقعی دانلود را ارزیابی می‌کند. پس از تأیید چندمرحله‌ای و گذشت زمان بیکاری مشخص‌شده، شمارش معکوس خاموشی آغاز می‌شود. در صورت شروع مجدد دانلود یا بروز هرگونه وضعیت نامشخص، عملیات خاموشی متوقف خواهد شد. همچنین دارای حالت Dry Run برای آزمایش عملکرد بدون خاموشی واقعی و تنظیمات اختصاصی برای کنترل زمان‌بندی است.",
-      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassinautoshutdown/logo.png?v=e4e77e6808",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassinautoshutdown/logo.png?v=e1ca9e4763",
       "logoUrls": [],
       "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassinautoshutdown/poster.jpg?v=7a7e46c600",
       "posterUrls": [],
