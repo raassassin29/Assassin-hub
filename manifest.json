@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "sequence": 43,
-  "generatedAt": "2026-11-22T11:42:46Z",
+  "sequence": 44,
+  "generatedAt": "2026-11-22T11:43:07Z",
   "launcher": {
     "version": "1.5.4",
     "kind": "zip",
@@ -670,7 +670,7 @@
       "name": "Assassin Tool",
       "description": "ابزار مدیریت پروژه و فایل با قابلیت ذخیره خودکار، پیش‌نمایش و مرتب‌سازی فایل‌ها.",
       "longDescription": "Assassin Tool یک ابزار دسکتاپ برای مدیریت و سازمان‌دهی فایل‌های پروژه است. نسخه 2.0 با بازنویسی کامل سیستم ذخیره‌سازی، امکان نگهداری خودکار پروژه‌ها و بازیابی سریع آن‌ها را فراهم می‌کند.\n\nامکانات اصلی:\n- ذخیره خودکار پروژه پس از هر تغییر\n- نگهداری و بازیابی ۱۵ پروژه اخیر\n- بارگذاری خودکار آخرین پروژه هنگام اجرای برنامه\n- پیش‌نمایش تصاویر با Thumbnail واقعی\n- نمایش آیکون اختصاصی برای فرمت‌های مختلف فایل\n- نمایش حجم فایل در پنل پیش‌نمایش\n- تغییر ترتیب فایل‌ها با Move Up و Move Down\n- رابط کاربری جدید با تم فیروزه‌ای تیره",
-      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-tool-2-1/logo.png?v=7565fc5a0c",
+      "logoUrl": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-tool-2-1/logo.png?v=8aca1ca799",
       "logoUrls": [],
       "poster": "https://raw.githubusercontent.com/raassassin29/Assassin-hub/main/assets/assassin-tool-2-1/poster.jpg?v=87349f168d",
       "posterUrls": [],
